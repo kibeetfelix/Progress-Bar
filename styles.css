@@ -69,3 +69,23 @@
 .react {
     background: cyan;
 }
+
+.html span {
+    border: 1px solid red;
+}
+
+.css span {
+    border: 1px solid blue;
+}
+
+.javascript span {
+    border: 1px solid green;
+}
+
+.python span {
+    border: 1px solid yellow;
+}
+
+.react span {
+    border: 1px solid cyan;
+}

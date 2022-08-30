@@ -14,6 +14,59 @@
     justify-content: center;
 }
 
-h2 {
-    color: aliceblue;
+.skills h2 {
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+    color: #fff;
+    font-size: 16px;
+}
+
+.progress-bar {
+    width: 600px;
+    height: 10px;
+    background-color: #959595;
+    border-radius: 5px;
+}
+
+.progress-bar div {
+    height: 10px;
+    background: red;
+    width: 50%;
+    border-radius: 5px;
+}
+
+.progress-bar div span {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #222;
+    float: right;
+    margin-top: -15px;
+    margin-right: -20px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.html {
+    background: red;
+}
+
+.css {
+    background: blue;
+}
+
+.javascript {
+    background: green;
+}
+
+.python {
+    background: yellow;
+}
+
+.react {
+    background: cyan;
 }

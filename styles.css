@@ -32,7 +32,7 @@
 
 .progress-bar div {
     height: 10px;
-    width: 50%;
+    width: 0%;
     border-radius: 5px;
 }
 
@@ -52,22 +52,27 @@
 
 .html {
     background: red;
+    animation: html 1s linear forwards;
 }
 
 .css {
     background: blue;
+    animation: css 1s linear forwards;
 }
 
 .javascript {
     background: green;
+    animation: javascript 1s linear forwards;
 }
 
 .python {
     background: yellow;
+    animation: python 1s linear forwards;
 }
 
 .react {
     background: cyan;
+    animation: react 1s linear forwards;
 }
 
 .html span {

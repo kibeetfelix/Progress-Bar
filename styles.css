@@ -94,3 +94,33 @@
 .react span {
     border: 1px solid cyan;
 }
+
+@keyframes html {
+    100% {
+        width: 86%;
+    }
+}
+
+@keyframes css {
+    100% {
+        width: 79%;
+    }
+}
+
+@keyframes javascript {
+    100% {
+        width: 70%;
+    }
+}
+
+@keyframes python {
+    100% {
+        width: 60%;
+    }
+}
+
+@keyframes react {
+    100% {
+        width: 50%;
+    }
+}
